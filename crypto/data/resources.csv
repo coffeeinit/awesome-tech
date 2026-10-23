@@ -1,0 +1,112 @@
+category,name,url,description
+Networks & scaling,Arbitrum,https://arbitrum.io,Ethereum L2 optimistic-rollup ecosystem
+Networks & scaling,Optimism,https://www.optimism.io,Ethereum L2 and OP Stack ecosystem
+Networks & scaling,Base,https://base.org,Ethereum L2 incubated by Coinbase
+Networks & scaling,zkSync,https://zksync.io,ZK-rollup scaling ecosystem
+Networks & scaling,Starknet,https://www.starknet.io,STARK-based Ethereum L2
+Networks & scaling,Celestia,https://celestia.org,Modular data-availability network
+Networks & scaling,EigenLayer,https://www.eigenlayer.xyz,Ethereum restaking and actively validated services
+Networks & scaling,Lightning Network,https://lightning.network,Bitcoin payment-channel network
+Networks & scaling,Liquid Network,https://liquid.net,Bitcoin sidechain and settlement network
+Networks & scaling,Aptos,https://aptosfoundation.org,Move-based smart-contract network
+Networks & scaling,Injective,https://injective.com,Interoperable finance-focused blockchain
+Networks & scaling,Kaspa,https://kaspa.org,Proof-of-work blockDAG network
+Token data & discovery,Etherscan Tokens,https://etherscan.io/tokens,"Ethereum token directory, contracts, holders and transfers"
+Token data & discovery,BscScan Tokens,https://bscscan.com/tokens,BNB Smart Chain token directory and explorer
+Token data & discovery,Arbiscan Tokens,https://arbiscan.io/tokens,Arbitrum token directory and explorer
+Token data & discovery,Basescan Tokens,https://basescan.org/tokens,Base token directory and explorer
+Token data & discovery,Solscan Tokens,https://solscan.io/tokens,Solana token directory and explorer
+Token data & discovery,CoinGecko,https://www.coingecko.com,"Market data, categories and asset directory"
+Token data & discovery,CoinMarketCap,https://coinmarketcap.com,"Market data, rankings and token pages"
+Token data & discovery,CryptoCompare,https://www.cryptocompare.com,Market data and crypto APIs
+Token data & discovery,CoinPaprika,https://coinpaprika.com,"Asset data, markets and API"
+Token data & discovery,CoinGlass,https://www.coinglass.com,"Derivatives, open interest, funding and liquidations"
+Token data & discovery,TradingView Crypto,https://www.tradingview.com/markets/cryptocurrencies/,Charts and market analysis
+Token data & discovery,Token Unlocks,https://token.unlocks.app,Unlock and vesting schedules
+Token data & discovery,Bubblemaps,https://bubblemaps.io,Visual token-holder and wallet-cluster analysis
+DeFi data & analytics,DeFiLlama,https://defillama.com,"TVL, stablecoins, yields, bridges and protocols"
+DeFi data & analytics,DEX Screener,https://dexscreener.com,"DEX pairs, liquidity and token discovery"
+DeFi data & analytics,GeckoTerminal,https://www.geckoterminal.com,DEX pools and on-chain market data
+DeFi data & analytics,L2BEAT,https://l2beat.com,"Ethereum L2 risk, TVL and technology analysis"
+DeFi data & analytics,RWA.xyz,https://app.rwa.xyz,Tokenized real-world asset data
+DeFi data & analytics,Token Terminal,https://tokenterminal.com,Protocol fundamentals and financial metrics
+DeFi data & analytics,Dune,https://dune.com,Community blockchain analytics and SQL dashboards
+DeFi data & analytics,Nansen,https://www.nansen.ai,Wallet labeling and on-chain intelligence
+DeFi data & analytics,Arkham,https://arkhamintelligence.com,On-chain entity and wallet intelligence
+DeFi data & analytics,Glassnode,https://glassnode.com,On-chain and market analytics
+Explorers & chain data,Mempool.space,https://mempool.space,"Bitcoin mempool, fees and blocks"
+Explorers & chain data,Blockchair,https://blockchair.com,Multi-chain explorer and API
+Explorers & chain data,Blockscout,https://www.blockscout.com,Open-source EVM explorer
+Explorers & chain data,OKLink,https://www.oklink.com,Multi-chain explorer and data
+Explorers & chain data,Subscan,https://subscan.io,Polkadot and Substrate explorer
+Explorers & chain data,StellarExpert,https://stellar.expert,Stellar explorer and asset data
+Explorers & chain data,XRPScan,https://xrpscan.com,XRP Ledger explorer
+Explorers & chain data,Cardanoscan,https://cardanoscan.io,Cardano explorer
+Papers & cryptography,Bitcoin whitepaper,https://bitcoin.org/bitcoin.pdf,Peer-to-peer electronic cash
+Papers & cryptography,Ethereum whitepaper,https://ethereum.org/en/whitepaper/,General-purpose smart-contract platform
+Papers & cryptography,IACR ePrint Archive,https://eprint.iacr.org,Cryptography research papers
+Papers & cryptography,arXiv Cryptography,https://arxiv.org/list/cs.CR/recent,Open research preprints
+Papers & cryptography,Stanford Blockchain Research,https://crypto.stanford.edu,Cryptography and blockchain research
+Papers & cryptography,MIT Digital Currency Initiative,https://dci.mit.edu,Digital-currency research
+Papers & cryptography,Cambridge Centre for Alternative Finance,https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/,Digital-asset and alternative-finance research
+Standards & specifications,Bitcoin BIPs,https://github.com/bitcoin/bips,Bitcoin Improvement Proposals
+Standards & specifications,Ethereum EIPs,https://eips.ethereum.org,Ethereum Improvement Proposals and ERCs
+Standards & specifications,ERC-4337,https://eips.ethereum.org/EIPS/eip-4337,Account abstraction standard
+Standards & specifications,Cosmos IBC,https://ibcprotocol.dev,Inter-blockchain communication standard
+Standards & specifications,W3C DID Core,https://www.w3.org/TR/did-core/,Decentralized identifiers standard
+Standards & specifications,W3C Verifiable Credentials,https://www.w3.org/TR/vc-data-model-2.0/,Verifiable credentials standard
+Standards & specifications,CAIP,https://chainagnostic.org,Chain-agnostic identifiers and interfaces
+Developer infrastructure,Remix,https://remix.ethereum.org,Browser Solidity IDE
+Developer infrastructure,Tenderly,https://tenderly.co,Smart-contract simulation and debugging
+Developer infrastructure,The Graph,https://thegraph.com,Blockchain indexing protocol
+Developer infrastructure,Alchemy,https://www.alchemy.com,RPC and developer APIs
+Developer infrastructure,Infura,https://www.infura.io,Blockchain RPC and APIs
+Developer infrastructure,QuickNode,https://www.quicknode.com,Managed node infrastructure
+Developer infrastructure,Moralis,https://moralis.io,Web3 APIs and data
+Developer infrastructure,WalletConnect,https://walletconnect.network,Wallet-to-app connectivity protocol
+Developer infrastructure,Safe,https://safe.global,Multisignature smart-account platform
+Developer infrastructure,Wormhole,https://wormhole.com,Cross-chain messaging protocol
+Security & scam protection,OpenZeppelin,https://www.openzeppelin.com,Smart-contract libraries and security
+Security & scam protection,Trail of Bits,https://www.trailofbits.com,Security research and tools
+Security & scam protection,Immunefi,https://immunefi.com,Web3 bug-bounty platform
+Security & scam protection,Revoke.cash,https://revoke.cash,Token approval management
+Security & scam protection,Chainabuse,https://www.chainabuse.com,Crypto scam and abuse reporting
+Security & scam protection,SlowMist,https://www.slowmist.com,Blockchain security research
+Security & scam protection,REKT Database,https://rekt.news/leaderboard/,DeFi exploit archive
+Security & scam protection,Scam Sniffer,https://www.scamsniffer.io,Wallet-drainer and phishing research
+"Mining, staking & validators",Mining Pool Stats,https://miningpoolstats.stream,Mining-pool and hashrate data
+"Mining, staking & validators",Staking Rewards,https://www.stakingrewards.com,Staking and validator data
+"Mining, staking & validators",Beaconcha.in,https://beaconcha.in,Ethereum validator explorer
+"Mining, staking & validators",Rated Network,https://www.rated.network,Ethereum staking infrastructure data
+"Mining, staking & validators",Bitcoin Mining Council,https://bitcoinminingcouncil.com,Bitcoin mining research and disclosures
+Exchanges & trading,CCData Exchange Benchmark,https://ccdata.io/research/exchange-benchmark,Exchange market-structure research
+Exchanges & trading,Kraken API,https://docs.kraken.com/api/,Exchange API documentation
+Exchanges & trading,Coinbase Developer Platform,https://docs.cdp.coinbase.com,Exchange and on-chain developer APIs
+Exchanges & trading,Uniswap,https://uniswap.org,Decentralized exchange protocol
+Exchanges & trading,1inch,https://1inch.io,DEX aggregation protocol
+"NFTs, gaming & identity",OpenSea,https://opensea.io,NFT marketplace
+"NFTs, gaming & identity",Magic Eden,https://magiceden.io,Multi-chain NFT marketplace
+"NFTs, gaming & identity",NFTScan,https://www.nftscan.com,NFT explorer and API
+"NFTs, gaming & identity",ENS,https://ens.domains,Decentralized naming
+"NFTs, gaming & identity",Decentraland,https://decentraland.org,Virtual world
+"NFTs, gaming & identity",IPFS,https://ipfs.tech,Content-addressed storage
+Real-world assets & institutional crypto,BIS Innovation Hub,https://www.bis.org/about/bisih/topics/cbdc.htm,Central-bank innovation research
+Real-world assets & institutional crypto,Project Guardian,https://www.mas.gov.sg/schemes-and-initiatives/project-guardian,Institutional tokenization initiative
+Real-world assets & institutional crypto,Canton Network,https://www.canton.network,Institutional privacy-enabled blockchain network
+Real-world assets & institutional crypto,Ondo Finance,https://ondo.finance,Tokenized financial products
+Real-world assets & institutional crypto,Centrifuge,https://centrifuge.io,On-chain real-world assets
+Government & regulation,Atlantic Council CBDC Tracker,https://www.atlanticcouncil.org/cbdctracker/,Global CBDC project tracker
+Government & regulation,BIS CBDC research,https://www.bis.org/topic/cbdc.htm,Central-bank digital-currency research
+Government & regulation,FATF Virtual Assets,https://www.fatf-gafi.org/en/topics/virtual-assets.html,AML and virtual-asset guidance
+Government & regulation,EU MiCA,https://finance.ec.europa.eu/regulation-and-supervision/financial-services-legislation/markets-crypto-assets-regulation-mica_en,European crypto-asset regulation
+Government & regulation,US SEC Crypto,https://www.sec.gov/securities-topics/crypto-assets,US securities-regulator resources
+Government & regulation,US CFTC Digital Assets,https://www.cftc.gov/LearnAndProtect/digitalassets,US derivatives-regulator resources
+Government & regulation,UK FCA Cryptoassets,https://www.fca.org.uk/consumers/cryptoassets,UK consumer and regulatory guidance
+Government & regulation,RBI Digital Rupee,https://www.rbi.org.in,India central-bank digital-currency information
+Education & media,Ethereum Developer Docs,https://ethereum.org/en/developers/docs/,Official Ethereum learning path
+Education & media,Bitcoin Developer Guide,https://developer.bitcoin.org/devguide/,Bitcoin protocol developer guide
+Education & media,CryptoZombies,https://cryptozombies.io,Interactive Solidity learning
+Education & media,Alchemy University,https://www.alchemy.com/university,Blockchain development courses
+Education & media,Ethereum.org Learn,https://ethereum.org/en/learn/,Beginner Ethereum education
+Education & media,Chainlink Education,https://chain.link/education,Oracle and Web3 education
+Education & media,a16z Crypto Canon,https://a16zcrypto.com/crypto-canon/,Crypto technology reading list

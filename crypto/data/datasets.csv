@@ -1,0 +1,37 @@
+category,name,url,description
+Token data & discovery,Etherscan Tokens,https://etherscan.io/tokens,"Ethereum token directory, contracts, holders and transfers"
+Token data & discovery,BscScan Tokens,https://bscscan.com/tokens,BNB Smart Chain token directory and explorer
+Token data & discovery,Arbiscan Tokens,https://arbiscan.io/tokens,Arbitrum token directory and explorer
+Token data & discovery,Basescan Tokens,https://basescan.org/tokens,Base token directory and explorer
+Token data & discovery,Solscan Tokens,https://solscan.io/tokens,Solana token directory and explorer
+Token data & discovery,CoinGecko,https://www.coingecko.com,"Market data, categories and asset directory"
+Token data & discovery,CoinMarketCap,https://coinmarketcap.com,"Market data, rankings and token pages"
+Token data & discovery,CryptoCompare,https://www.cryptocompare.com,Market data and crypto APIs
+Token data & discovery,CoinPaprika,https://coinpaprika.com,"Asset data, markets and API"
+Token data & discovery,CoinGlass,https://www.coinglass.com,"Derivatives, open interest, funding and liquidations"
+Token data & discovery,TradingView Crypto,https://www.tradingview.com/markets/cryptocurrencies/,Charts and market analysis
+Token data & discovery,Token Unlocks,https://token.unlocks.app,Unlock and vesting schedules
+Token data & discovery,Bubblemaps,https://bubblemaps.io,Visual token-holder and wallet-cluster analysis
+DeFi data & analytics,DeFiLlama,https://defillama.com,"TVL, stablecoins, yields, bridges and protocols"
+DeFi data & analytics,DEX Screener,https://dexscreener.com,"DEX pairs, liquidity and token discovery"
+DeFi data & analytics,GeckoTerminal,https://www.geckoterminal.com,DEX pools and on-chain market data
+DeFi data & analytics,L2BEAT,https://l2beat.com,"Ethereum L2 risk, TVL and technology analysis"
+DeFi data & analytics,RWA.xyz,https://app.rwa.xyz,Tokenized real-world asset data
+DeFi data & analytics,Token Terminal,https://tokenterminal.com,Protocol fundamentals and financial metrics
+DeFi data & analytics,Dune,https://dune.com,Community blockchain analytics and SQL dashboards
+DeFi data & analytics,Nansen,https://www.nansen.ai,Wallet labeling and on-chain intelligence
+DeFi data & analytics,Arkham,https://arkhamintelligence.com,On-chain entity and wallet intelligence
+DeFi data & analytics,Glassnode,https://glassnode.com,On-chain and market analytics
+Explorers & chain data,Mempool.space,https://mempool.space,"Bitcoin mempool, fees and blocks"
+Explorers & chain data,Blockchair,https://blockchair.com,Multi-chain explorer and API
+Explorers & chain data,Blockscout,https://www.blockscout.com,Open-source EVM explorer
+Explorers & chain data,OKLink,https://www.oklink.com,Multi-chain explorer and data
+Explorers & chain data,Subscan,https://subscan.io,Polkadot and Substrate explorer
+Explorers & chain data,StellarExpert,https://stellar.expert,Stellar explorer and asset data
+Explorers & chain data,XRPScan,https://xrpscan.com,XRP Ledger explorer
+Explorers & chain data,Cardanoscan,https://cardanoscan.io,Cardano explorer
+"Mining, staking & validators",Mining Pool Stats,https://miningpoolstats.stream,Mining-pool and hashrate data
+"Mining, staking & validators",Staking Rewards,https://www.stakingrewards.com,Staking and validator data
+"Mining, staking & validators",Beaconcha.in,https://beaconcha.in,Ethereum validator explorer
+"Mining, staking & validators",Rated Network,https://www.rated.network,Ethereum staking infrastructure data
+"Mining, staking & validators",Bitcoin Mining Council,https://bitcoinminingcouncil.com,Bitcoin mining research and disclosures

@@ -1,0 +1,15 @@
+category,name,url,description
+Papers & cryptography,Bitcoin whitepaper,https://bitcoin.org/bitcoin.pdf,Peer-to-peer electronic cash
+Papers & cryptography,Ethereum whitepaper,https://ethereum.org/en/whitepaper/,General-purpose smart-contract platform
+Papers & cryptography,IACR ePrint Archive,https://eprint.iacr.org,Cryptography research papers
+Papers & cryptography,arXiv Cryptography,https://arxiv.org/list/cs.CR/recent,Open research preprints
+Papers & cryptography,Stanford Blockchain Research,https://crypto.stanford.edu,Cryptography and blockchain research
+Papers & cryptography,MIT Digital Currency Initiative,https://dci.mit.edu,Digital-currency research
+Papers & cryptography,Cambridge Centre for Alternative Finance,https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/,Digital-asset and alternative-finance research
+Standards & specifications,Bitcoin BIPs,https://github.com/bitcoin/bips,Bitcoin Improvement Proposals
+Standards & specifications,Ethereum EIPs,https://eips.ethereum.org,Ethereum Improvement Proposals and ERCs
+Standards & specifications,ERC-4337,https://eips.ethereum.org/EIPS/eip-4337,Account abstraction standard
+Standards & specifications,Cosmos IBC,https://ibcprotocol.dev,Inter-blockchain communication standard
+Standards & specifications,W3C DID Core,https://www.w3.org/TR/did-core/,Decentralized identifiers standard
+Standards & specifications,W3C Verifiable Credentials,https://www.w3.org/TR/vc-data-model-2.0/,Verifiable credentials standard
+Standards & specifications,CAIP,https://chainagnostic.org,Chain-agnostic identifiers and interfaces
